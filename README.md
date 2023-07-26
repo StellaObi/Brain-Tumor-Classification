@@ -12,11 +12,11 @@ The extraction of relevant features from brain tumor MRI images is a critical st
 
 The motivation for this project is to conduct extensive experiments in the detection and classification of brain tumor MRI images using transfer learning, image processing, and sophisticated feature engineering techniques, building on existing research and expertise in the field of medical image analysis to improve accuracy and reduce run time, resulting in more reliable brain tumor diagnoses for more e↵ective treatment planning.
 
-## Goals
+## Objective
 
 The primary objective of this project is to develop a system for diagnosing and classifying brain tumor MRI images using transfer learning techniques. In addition, the project aims to explore how di↵erent image preprocessing and feature techniques can enhance the accuracy of medical image analysis systems.
 
-## Datasets
+## Dataset
 
 The publicly available brain tumor dataset from Kaggle (Nickparvar, 2021) was used for this study. 
 The dataset is a combination of MRI images from three datasets: figshare dataset, SARTAJ dataset and Br35H dataset. The dataset consists of 7023 images of human brain MRI images which is collected as training and testing. Each of the collection contains 4 classes of brain tumor MRI images: glioma, meningioma, no tumor, and pituitary
@@ -53,4 +53,7 @@ Ensemble of deep features from pre-trained convolutional neural networks with ma
 The presented technique in this study achieved a remarkable improvement in the accuracy of brain MRI scans classification compared to other existing methods, with an overall accuracy of 94%.
 
 ## Challenges & Future Work
+
+
+
 ## References
