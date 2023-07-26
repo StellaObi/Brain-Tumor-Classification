@@ -18,11 +18,10 @@ The primary objective of this project is to develop a system for diagnosing and 
 
 ## Dataset
 
-The publicly available brain tumor dataset from Kaggle (Nickparvar, 2021) was used for this study. 
-The dataset is a combination of MRI images from three datasets: figshare dataset, SARTAJ dataset and Br35H dataset. The dataset consists of 7023 images of human brain MRI images which is collected as training and testing. Each of the collection contains 4 classes of brain tumor MRI images: glioma, meningioma, no tumor, and pituitary
+The publicly available brain tumor dataset from Kaggle was used for this study. 
+The dataset is a combination of MRI images from three datasets: figshare dataset, SARTAJ dataset and Br35H dataset. The dataset consists of 7023 images of human brain MRI images which is collected as training and testing. Each of the collection contains 4 classes of brain tumor MRI images: glioma, meningioma, no tumor, and pituitary.
 
 ## Practical Applications
-
 
 -  Early Tumor Detection and Diagnosis:
 
